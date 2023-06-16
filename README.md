@@ -19,7 +19,7 @@ To install and set up the Railway Management System locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/example/railway-management-system.git
+   git clone https://github.com/AyushGupta2114/Railway-mangement-System
    ```
 
 2. Install the required dependencies:
