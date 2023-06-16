@@ -1,6 +1,8 @@
 # Railway Management System
 
-The Railway Management System is a software application designed to efficiently manage and automate various aspects of railway operations. This repository contains the source code and related documentation for the system.
+The Railway Management System is a software application designed to efficiently manage and automate various aspects of railway operations with a frontend built using HTML, CSS, and basic JavaScript, and a backend powered by MySQL for seamless railway operations management.. This repository contains the source code and related documentation for the system.
+
+
 
 ## Features
 
